@@ -3,6 +3,9 @@
 
 Captcha generator with [Zhuyin](https://en.wikipedia.org/wiki/Bopomofo) (Bopomofo) characters.
 
+Inspired by Hiragana captcha in Japanese website.
+![gana-captcha.png](gana-captcha.png)
+
 ## Run the generator server
 
 ```shell
